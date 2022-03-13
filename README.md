@@ -9,7 +9,6 @@ NIM     : 312010210<br>
 Kelas   : TI.20.B.1<br>
 
 
-
 **Pada pertemuan 2 mata kuliah Web, saya akan melakukan beberapa perintah pada HTML**
 
 - Menampilkan Tittle HTML pada browser <br>
