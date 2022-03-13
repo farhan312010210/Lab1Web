@@ -39,11 +39,22 @@ berikut tampilannya
 ![Membuat Judul](Screenshoot/judul.JPG)
 
 3. **Memformat Text**
+
+<br>
 Disini saya akan merubah format text pada HTML.
 <br>
 
+
 ![Memformat text](Screenshoot/formattext.JPG)
 
+4.**Menambahkan Gambar**
+
+Pada point nomor 4 saya akan memasukan gambar pada HTMl.
+beginilah hasilnya
+
 <br>
+
+![Menambahkan Gambar](Screenshoot/menambahkangambar.JPG)
+
 
   
