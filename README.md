@@ -38,6 +38,11 @@ berikut tampilannya
 
 ![Membuat Judul](Screenshoot/judul.JPG)
 
+3. **Memformat Text**
+Disini saya akan merubah format text pada HTML.
+<br>
+
+![Memformat text](Screenshoot/formattext.JPG)
 
 <br>
 
