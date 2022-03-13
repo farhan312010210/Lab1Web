@@ -19,7 +19,7 @@ Kelas   : TI.20.B.1<br>
 
 1. **Membuat Paragraf**
 <br>
-pada poin ini saya akna membuat paragraf pada file HTML. Pada sintax p bertujuan untuk membuat paragraf baru. Berikut tampilannya.<br>
+pada poin ini saya akan membuat paragraf pada file HTML. Pada sintax p bertujuan untuk membuat paragraf baru. Berikut tampilannya.<br>
 
 ![Membuat Paragraf Baru](Screenshoot/paragraf%201.JPG)
 
@@ -28,3 +28,18 @@ pada poin ini saya akna membuat paragraf pada file HTML. Pada sintax p bertujuan
 Disini saya akan merubah perataan pada paragraf yang sudah tersedia, yaitu paragraf pertama menjadi rata tengah, paragraf kedua rata kanan. Berikut tampilannya.
 
 ![Perataan Paragraf HTML](Screenshoot/Perataan-paragraf.JPG)
+
+<br>
+
+2. **Membuat Judul**
+
+Pada point nomor 2 saya akan membuat judul/Heading pada HTML.
+berikut tampilannya
+<br>
+
+![Membuat Judul](Screenshoot/judul.JPG)
+
+
+<br>
+
+  
