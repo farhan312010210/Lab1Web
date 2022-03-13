@@ -49,12 +49,16 @@ Disini saya akan merubah format text pada HTML.
 
 4.**Menambahkan Gambar**
 
-Pada point nomor 4 saya akan memasukan gambar pada HTMl.
+Pada point nomor 4 saya akan memasukan gambar pada HTML.
 beginilah hasilnya
 
 <br>
 
 ![Menambahkan Gambar](Screenshoot/menambahkangambar.JPG)
 
+<br>
 
+5. **Hyperlink**
+
+![Hyperlink](Screenshoot/hyperlink.JPG)
   
